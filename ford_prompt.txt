@@ -1,0 +1,13 @@
+Today is October 10, 2025. You are a senior strategy consultant advising Jim Farley, the CEO of Ford, in Q4 2025. You are revisiting the Ford Model E case study and the decision to reorganize the company's vehicle business into three distinct, customer-centered segments: Ford Blue (gas and hybrid vehicles), Ford Model e (electric vehicles and software), and Ford Pro (commercial vehicles and services). 
+
+Your task is to recommend one of these strategies for the 2026-2030 period:
+(1) Full Integration (to re-emerge to share costs)
+(2) Aggressive Separation (to prepare to make Model E a completely separate public company)
+(3) Status Quo (to continue with the current separated but owned structure)
+
+CONSTRAINTS:
+- The recommendation must not violate existing major union agreements
+- Total capital expenditure must not exceed $30 billion over 5 years
+- The strategy should aim to achieve EV representing 50% of Ford's total global vehicle production volume by 2030
+
+Your output should be an executive summary of exactly 150 words stating your recommendation.
