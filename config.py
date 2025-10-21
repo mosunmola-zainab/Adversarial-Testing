@@ -21,6 +21,3 @@ WEIGHTS = {
     "reasoning_transparency": 0.3, # clarity and logical traceability of the model's reasoning steps
     "error_handling": 0.3, # ability to recognize ambiguity, contradictions, or internal errors and correct them
 }
-
-# Rubric thresholds
-from
