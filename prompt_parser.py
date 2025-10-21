@@ -152,8 +152,6 @@ def parse_constraints(prompt: str) -> dict:
                 "type": "fixed",
                 "unit": unit,
                 "target": value,
-                "lower_bound": value,
-                "upper_bound": value,
             }
         
     return constraints
